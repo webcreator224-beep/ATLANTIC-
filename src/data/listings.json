@@ -1,0 +1,348 @@
+[
+  {
+    "id": "listing-1",
+    "title": "3 BHK Sea Face Luxury Residence in Worli",
+    "slug": "3bhk-worli-sea-face-luxury-residence",
+    "type": "buy",
+    "propertyType": "Apartment",
+    "price": 52000000,
+    "priceFormatted": "₹5.20 Cr",
+    "address": "Worli Sea Face, Worli, Mumbai 400030",
+    "location": "Worli",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 1950,
+    "carpetAreaSqFt": 1480,
+    "furnishing": "Fully Furnished",
+    "possessionStatus": "Ready to Move",
+    "floor": "22nd of 38 Floors",
+    "parking": "2 Covered Slots",
+    "description": "High floor 3 BHK residence offering unobstructed views of the Arabian Sea and the Bandra-Worli Sea Link. Features designer chandelier lighting, plush velvet corner sofa, Italian marble flooring, and double-glazed soundproof windows.",
+    "features": [
+      "Unobstructed Arabian Sea View",
+      "Custom Italian Chandelier",
+      "Modular Kitchen",
+      "Gymnasium & Sauna",
+      "Temperature Controlled Pool",
+      "24x7 Multi-tier Security",
+      "Full Power Backup",
+      "Resident Concierge Service"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Living room interior with custom chandelier and geometric rug in Worli Mumbai"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Spacious glass walled lounge with Persian rug and sea views"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Modular blue lacquer kitchen with under-cabinet ambient lighting"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Worli high rise balcony view at golden sunset"
+      }
+    ],
+    "floorPlanUrl": "/images/placeholder-floorplan.svg",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Worli+Sea+Face,+Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "createdDate": "2026-09-15"
+  },
+  {
+    "id": "listing-2",
+    "title": "4 BHK Independent Villa on Pali Hill, Bandra West",
+    "slug": "4bhk-pali-hill-bandra-west-villa",
+    "type": "buy",
+    "propertyType": "Villa",
+    "price": 125000000,
+    "priceFormatted": "₹12.50 Cr",
+    "address": "Pali Hill, Bandra West, Mumbai 400050",
+    "location": "Bandra West",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 3800,
+    "carpetAreaSqFt": 3100,
+    "furnishing": "Fully Furnished",
+    "possessionStatus": "Ready to Move",
+    "floor": "Ground + 2 Floors",
+    "parking": "3 Covered Slots",
+    "description": "Exclusive contemporary multi-level villa situated in prime Pali Hill, Bandra West. Features lush private garden, bougainvillea pergola, glass balcony railings, teakwood window frames, and private driveway.",
+    "features": [
+      "Prime Pali Hill Address",
+      "Private Landscaped Garden",
+      "Gated Perimeter Security",
+      "Separate Servant Quarter",
+      "Solar Power Backup",
+      "Reserved Parking for 3 Cars"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Exterior view of white 3-story modern villa on Pali Hill Bandra West"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Side facade showing stone wall sconces and private pool"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Warm ambient living lounge with arched entryway and bamboo plants"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Wooden staircase with glass balustrade and strip lighting"
+      }
+    ],
+    "floorPlanUrl": "/images/placeholder-floorplan.svg",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Pali+Hill,+Bandra+West,+Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "createdDate": "2026-09-18"
+  },
+  {
+    "id": "listing-3",
+    "title": "4 BHK Duplex Penthouse in Hiranandani Gardens, Powai",
+    "slug": "4bhk-powai-hiranandani-duplex-penthouse",
+    "type": "buy",
+    "propertyType": "Penthouse",
+    "price": 85000000,
+    "priceFormatted": "₹8.50 Cr",
+    "address": "Hiranandani Gardens, Powai, Mumbai 400076",
+    "location": "Powai",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "areaSqFt": 3400,
+    "carpetAreaSqFt": 2650,
+    "furnishing": "Fully Furnished",
+    "possessionStatus": "Ready to Move",
+    "floor": "28th & 29th Duplex Penthouse",
+    "parking": "3 Covered Slots",
+    "description": "Luxurious duplex penthouse overlooking Powai Lake. Includes grand double-height arched grand salon, tiered brass chandeliers, floating wooden staircase, smart home lighting, and private terrace garden.",
+    "features": [
+      "Powai Lake View",
+      "Double Height Living Lounge",
+      "Private Terrace Garden",
+      "Smart Home Automation",
+      "Clubhouse & Tennis Court",
+      "24x7 Multi-tier Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Grand double height living hall with arched wooden frames in Powai"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Exterior view of high rise residential complex at Powai lakefront"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Master bedroom suite with warm wood finishes and study nook"
+      }
+    ],
+    "floorPlanUrl": "/images/placeholder-floorplan.svg",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Hiranandani+Gardens,+Powai,+Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "createdDate": "2026-09-20"
+  },
+  {
+    "id": "listing-4",
+    "title": "2 BHK Premium Furnished Rental Flat in Juhu",
+    "slug": "2bhk-juhu-tara-road-rental-flat",
+    "type": "rent",
+    "propertyType": "Apartment",
+    "price": 145000,
+    "priceFormatted": "₹1.45 Lakh / month",
+    "address": "Juhu Tara Road, Juhu, Mumbai 400049",
+    "location": "Juhu",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqFt": 1150,
+    "carpetAreaSqFt": 880,
+    "furnishing": "Fully Furnished",
+    "possessionStatus": "Ready to Move",
+    "floor": "5th of 10 Floors",
+    "parking": "1 Covered Slot",
+    "description": "Tastefully furnished beachside flat walking distance from Juhu Beach. Equipped with split air conditioning, warm cove lighting, cozy lounge seating, beanbags, and built-in TV entertainment console.",
+    "features": [
+      "Proximity to Juhu Beach",
+      "Fully Furnished Interiors",
+      "Split Air Conditioners",
+      "Modern Kitchen",
+      "High Speed Elevator",
+      "CCTV Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Cozy living lounge in Juhu with city view windows"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Contemporary wooden modular kitchen with fluted backsplash"
+      }
+    ],
+    "floorPlanUrl": "/images/placeholder-floorplan.svg",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Juhu+Tara+Road,+Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "createdDate": "2026-09-22"
+  },
+  {
+    "id": "listing-5",
+    "title": "3 BHK Rental Apartment in Lower Parel High-Rise",
+    "slug": "3bhk-lower-parel-rental-apartment",
+    "type": "rent",
+    "propertyType": "Apartment",
+    "price": 220000,
+    "priceFormatted": "₹2.20 Lakh / month",
+    "address": "Senapati Bapat Marg, Lower Parel, Mumbai 400013",
+    "location": "Lower Parel",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 1650,
+    "carpetAreaSqFt": 1250,
+    "furnishing": "Fully Furnished",
+    "possessionStatus": "Ready to Move",
+    "floor": "16th of 45 Floors",
+    "parking": "2 Covered Slots",
+    "description": "Modern high-rise apartment in Lower Parel corporate corridor near Phoenix Palladium Mall. Features contemporary dark balconies, floor-to-ceiling glass windows, infinity pool access, and gym.",
+    "features": [
+      "Corporate District Location",
+      "City Skyline Views",
+      "Infinity Pool & Gym",
+      "High Speed Elevators",
+      "100% Power Backup",
+      "MahaRERA Compliant Complex"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Modern urban residential tower with dark balconies in Lower Parel"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+        "alt": "High-rise luxury residential facade with tropical landscaping"
+      }
+    ],
+    "floorPlanUrl": "/images/placeholder-floorplan.svg",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Lower+Parel,+Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "createdDate": "2026-09-24"
+  },
+  {
+    "id": "listing-6",
+    "title": "3 BHK Luxury Independent Bungalow in Thane West",
+    "slug": "3bhk-thane-west-modern-bungalow",
+    "type": "buy",
+    "propertyType": "Villa",
+    "price": 38000000,
+    "priceFormatted": "₹3.80 Cr",
+    "address": "Ghodbunder Road, Thane West, MMR 400607",
+    "location": "Thane West",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 2400,
+    "carpetAreaSqFt": 1900,
+    "furnishing": "Semi-Furnished",
+    "possessionStatus": "Ready to Move",
+    "floor": "Ground + 1 Floor",
+    "parking": "2 Reserved Slots",
+    "description": "Architecturally designed independent 3 BHK bungalow along Ghodbunder Road corridor. Features wooden panelling, stone cladding, glass balcony balustrades, paved courtyard, and private parking space.",
+    "features": [
+      "Ghodbunder Road Corridor",
+      "Independent Plot & Gated Entry",
+      "Stone Cladding & Teakwood Accents",
+      "Paved Car Parking Courtyard",
+      "Ready to Move In"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+        "alt": "3-story modern townhouse facade with stone texture and wood panelling in Thane West"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "alt": "White and dark slate modern bungalow with glass balcony"
+      }
+    ],
+    "floorPlanUrl": "/images/placeholder-floorplan.svg",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Thane+West,+Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "createdDate": "2026-09-25"
+  },
+  {
+    "id": "listing-7",
+    "title": "4 BHK Ultra Luxury Sunset Villa in Juhu Beach Sector",
+    "slug": "4bhk-juhu-beach-ultra-luxury-sunset-villa",
+    "type": "buy",
+    "propertyType": "Villa",
+    "price": 165000000,
+    "priceFormatted": "₹16.50 Cr",
+    "address": "Juhu Scheme, Juhu, Mumbai 400049",
+    "location": "Juhu",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "areaSqFt": 4200,
+    "carpetAreaSqFt": 3500,
+    "furnishing": "Fully Furnished",
+    "possessionStatus": "Ready to Move",
+    "floor": "Ground + 2 Floors",
+    "parking": "4 Covered Slots",
+    "description": "Spanish Mediterranean inspired luxury mansion featuring terracotta tile roof overhangs, warm exterior lighting, private infinity lawn, glass balconies, and automobile garage.",
+    "features": [
+      "Exclusive Juhu Scheme Location",
+      "Terracotta Roof Villa",
+      "Private Lawn & Evening Lighting",
+      "Automobile Garage",
+      "Multi-layer Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Sunset view of luxury dark modern villa with warm ambient lighting"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Spanish Mediterranean luxury villa with terracotta tile roof in Juhu"
+      }
+    ],
+    "floorPlanUrl": "/images/placeholder-floorplan.svg",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Juhu,+Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "createdDate": "2026-09-26"
+  },
+  {
+    "id": "listing-8",
+    "title": "3 BHK Contemporary Flat in Bandra West Carter Road",
+    "slug": "3bhk-bandra-west-carter-road-flat",
+    "type": "buy",
+    "propertyType": "Apartment",
+    "price": 49000000,
+    "priceFormatted": "₹4.90 Cr",
+    "address": "Carter Road, Bandra West, Mumbai 400050",
+    "location": "Bandra West",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 1750,
+    "carpetAreaSqFt": 1320,
+    "furnishing": "Semi-Furnished",
+    "possessionStatus": "Ready to Move",
+    "floor": "8th of 18 Floors",
+    "parking": "2 Covered Slots",
+    "description": "Modern minimalist flat near Carter Road Promenade. Features sleek grey-and-white architectural facade, glass balcony, floor-to-ceiling windows, and reserved basement parking.",
+    "features": [
+      "Carter Road Promenade Access",
+      "Minimalist Architectural Facade",
+      "Reserved Parking",
+      "Gated Society Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Minimalist modern flat facade in Bandra West with glass balcony"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Sleek grey and white residential building in Bandra"
+      }
+    ],
+    "floorPlanUrl": "/images/placeholder-floorplan.svg",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Carter+Road,+Bandra+West,+Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "createdDate": "2026-09-27"
+  }
+]

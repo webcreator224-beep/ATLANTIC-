@@ -1,0 +1,6 @@
+{
+  "name": "Atlanta Estate Agency - Mumbai Real Estate",
+  "description": "Premier real estate agency in Mumbai for buying, selling, and renting properties in Bandra, Worli, Powai, Juhu, and key Mumbai locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
